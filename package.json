@@ -5,6 +5,7 @@
   "author": "Kazutaka Kurihara",
   "license": "ISC",
   "dependencies": {
-    "bitflyer-node": "0.0.3"
+    "bitflyer-node": "0.0.3",
+    "websocket": "^1.0.26"
   }
 }
