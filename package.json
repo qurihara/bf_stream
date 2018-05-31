@@ -1,0 +1,10 @@
+{
+  "name": "bf-stream",
+  "version": "1.0.0",
+  "description": "bf-stream",
+  "author": "Kazutaka Kurihara",
+  "license": "ISC",
+  "dependencies": {
+    "bitflyer-node": "0.0.3"
+  }
+}
